@@ -51,7 +51,7 @@
 
 ## 📂 Projects
 
-### [CultureLens](https://github.com/kjunsu010823/culturelens) · 졸업 프로젝트
+### [CultureLens](https://github.com/DG-200-OK/BACK) · 졸업 프로젝트
 `팀 프로젝트` `백엔드 · 클라우드 담당`
 
 AI가 만든 문화 이미지 캡션을 사람과 AI가 함께 평가하고, 두 평가 분포의 차이를 Wasserstein distance로 정량화하는 플랫폼
